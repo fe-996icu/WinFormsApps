@@ -1,0 +1,39 @@
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmCodeCouter.resources
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
+D:\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+D:\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+D:\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmCodeCouter.resources
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmImageButtons.resources
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Properties.Resources.resources
+D:\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmCodeCouter.resources
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmCodeCouter.resources
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+C:\Users\Administrator\Desktop\CodeCounter\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb

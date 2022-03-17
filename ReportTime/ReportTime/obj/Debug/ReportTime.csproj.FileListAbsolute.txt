@@ -1,0 +1,140 @@
+E:\尚未完成的。。。。。\ReportTime\ReportTime\obj\Debug\ReportTime.exe
+E:\尚未完成的。。。。。\ReportTime\ReportTime\obj\Debug\ReportTime.pdb
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.exe
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.pdb
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\bin\Debug\ReportTime.exe
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\bin\Debug\ReportTime.pdb
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\张智赫\Desktop\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\bin\Debug\In fixed time shut down - 定时关机.exe
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\bin\Debug\In fixed time shut down - 定时关机.pdb
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\obj\Debug\In fixed time shut down - 定时关机.exe
+C:\Users\张智赫\Desktop\ReportTime\ReportTime\obj\Debug\In fixed time shut down - 定时关机.pdb
+D:\最近使用的\ReportTime\ReportTime\bin\Debug\In fixed time shut down - 定时关机.exe
+D:\最近使用的\ReportTime\ReportTime\bin\Debug\In fixed time shut down - 定时关机.pdb
+D:\最近使用的\ReportTime\ReportTime\bin\Debug\DevComponents.DotNetBar2.dll
+D:\最近使用的\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+D:\最近使用的\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+D:\最近使用的\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+D:\最近使用的\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+D:\最近使用的\ReportTime\ReportTime\obj\Debug\In fixed time shut down - 定时关机.exe
+D:\最近使用的\ReportTime\ReportTime\obj\Debug\In fixed time shut down - 定时关机.pdb
+E:\学习资料\新建文件夹\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+E:\学习资料\新建文件夹\ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+E:\学习资料\新建文件夹\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\新建文件夹\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+E:\学习资料\新建文件夹\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+E:\学习资料\新建文件夹\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+E:\学习资料\新建文件夹\ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+E:\学习资料\新建文件夹\ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+E:\学习资料\最近\ReportTime - 副本\ReportTime\obj\Debug\In fixed time shut down.exe
+E:\学习资料\最近\ReportTime - 副本\ReportTime\obj\Debug\In fixed time shut down.pdb
+E:\学习资料\最近\ReportTime - 副本\ReportTime\bin\Debug\In fixed time shut down.exe
+E:\学习资料\最近\ReportTime - 副本\ReportTime\bin\Debug\In fixed time shut down.pdb
+E:\学习资料\最近\ReportTime - 副本\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\最近\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+E:\学习资料\最近\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+E:\学习资料\最近\ReportTime - 副本\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+E:\学习资料\最近\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+E:\学习资料\最近\ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+E:\学习资料\最近\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\最近\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+E:\学习资料\最近\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+E:\学习资料\最近\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+E:\学习资料\最近\ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+E:\学习资料\最近\ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+D:\ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+D:\ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+D:\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+D:\ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+D:\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+D:\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+D:\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+D:\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+D:\复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+D:\复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+D:\复件 ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+D:\复件 ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+D:\复件 ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+D:\复件 ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+D:\复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+D:\复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+D:\复件 复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+D:\复件 复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+D:\复件 复件 ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+D:\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+D:\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+D:\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+D:\复件 复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+D:\复件 复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Documents and Settings\class\桌面\复件 复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\复件 复件 ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\复件 复件 ReportTime - 副本\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ReportTime - 副本 (2)\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\obj\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ReportTime - 副本 (4) - 副本\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+D:\ReportTime\ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+D:\ReportTime\ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb
+D:\ReportTime\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+D:\ReportTime\ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+D:\ReportTime\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+D:\ReportTime\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+D:\ReportTime\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+D:\ReportTime\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe.config
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\bin\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\bin\Debug\In fixed time shut down.pdb
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\obj\Debug\ReportTime.FrmReportTime.resources
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\obj\Debug\ReportTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\obj\Debug\ReportTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\obj\Debug\In fixed time shut down.exe
+C:\Users\Administrator\Desktop\ReportTime\ReportTime\ReportTime\obj\Debug\In fixed time shut down.pdb

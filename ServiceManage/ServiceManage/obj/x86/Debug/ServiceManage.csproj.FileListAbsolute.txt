@@ -1,0 +1,99 @@
+D:\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+D:\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+D:\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmCodeCouter.resources
+D:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+E:\ServiceManage\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+E:\ServiceManage\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmCodeCouter.resources
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+E:\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+E:\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+E:\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\ServiceManage教师机\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+D:\ServiceManage\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+D:\ServiceManage\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+D:\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\ServiceManage\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\bin\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\bin\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\bin\Debug\ServiceManage.exe
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\bin\Debug\ServiceManage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ServiceManage.FrmAbout.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ServiceManage.FrmServiceManage.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ServiceManage.FrmImageButtons.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\ServiceManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\新建文件夹\ServiceManage - 副本\ServiceManage\obj\x86\Debug\GenerateResource.write.1.tlog
